@@ -3,6 +3,7 @@ Rencana Belajar:
 -Belajar tutorial Video Sandika Galih
   * belajar kurikulum arahan Sandikagali
    + belajar css layouting
+   + belajar bukan sekedar front end tapi juga backend, fokus fullstack
 -Permantap dengan Review Materi Dari codepolitan
   * mendetailkan pelajaran dengan Kurikulum codepolitan
 -Buat Tutorial Sbgai Bentuk Output Belajar sambil membuat web
