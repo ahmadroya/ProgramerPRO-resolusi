@@ -2,8 +2,10 @@ Rencana Belajar:
 
 -Belajar tutorial Video Sandika Galih
   * belajar kurikulum arahan Sandikagali
+   + belajar css layouting
 -Permantap dengan Review Materi Dari codepolitan
   * mendetailkan pelajaran dengan Kurikulum codepolitan
 -Buat Tutorial Sbgai Bentuk Output Belajar sambil membuat web
   * Anggap saja sebagai Murajaah Dan Implementasi Ilmu(membuat video tutorial untuk presentasi)
 -belajar ilmu manejemen pondok
+-mujahadah belajar
