@@ -6,3 +6,4 @@ Rencana Belajar:
   * mendetailkan pelajaran dengan Kurikulum codepolitan
 -Buat Tutorial Sbgai Bentuk Output Belajar sambil membuat web
   * Anggap saja sebagai Murajaah Dan Implementasi Ilmu(membuat video tutorial untuk presentasi)
+-belajar ilmu manejemen pondok
